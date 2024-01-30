@@ -1,0 +1,12 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre1process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 1 entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10
+us1en1printers1deskjet1printers,DeskJet Printers,Printers,Perfect for affordable basic printing.,, ,us-en/printers/deskjet-printers.html, , , , , , , , , , , , 
+us1en1printers1envy1printers,Envy Printers,Printers,Perfect for home printing.,, ,us-en/printers/envy-printers.html, , , , , , , , , , , , 
+us1en1printers1smart1tank,Smart Tank,Printers,Intuitive ink tank printing perfect for busy schedules.,, ,us-en/printers/smart-tank.html, , , , , , , , , , , , 
+us1en1printers1officejet1pro1printers,OfficeJet Pro Printers,Printers,Perfect for higher volume printing and all1around productivity in your home or home office.,, ,us-en/printers/officejet-pro-printers.html, , , , , , , , , , , , 
+us1en1printers1laserjet12001series,LaserJet 200 Series,Printers,Perfect for home office and small business.,, ,us-en/printers/laserjet-200-series.html, , , , , , , , , , , , 
